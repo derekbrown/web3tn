@@ -4,6 +4,10 @@
 x. Introduction
   a. Who I Am
     1. Background & Creds - Why me?
+      a. LinkedIn: Eng & JavaScript Lead (Patents)
+      b. Addepar: VP, Product Development
+      c. Exeq: CTO, CEO
+      d. Bunches: Founder, CEO
     2. Github (https://github.com/derekbrown)
     3. Twitter (https://twitter.com/derekbrown)
     4. LinkedIn (https://linkedin.com/in/derekbrownjr)
