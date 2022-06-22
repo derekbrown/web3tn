@@ -1,7 +1,7 @@
 # Web3 in TN: Building Blocks & Code Review
 
 ## Agenda
-x. Introduction
+I. Introduction
   a. Who I Am
     1. Background & Creds - Why me?
       a. LinkedIn: Eng & JavaScript Lead (Patents)
@@ -29,10 +29,10 @@ x. Introduction
       - How Does All This Work?
       - Show Me the Code?
       - Something Else?
-xx. Caveats
+II. Caveats
   a. EVM World
   b. Working on Ethereum Layer 1
-I. Building Blocks
+III. Building Blocks
   a. Chains
     1. Layer 1
     2. Sidechains
